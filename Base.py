@@ -8,4 +8,5 @@ print("Es un honor tenerte de nuestro lado", Nombre)
 import Interaccion
 Interaccion.aparicion()
 
-xd
+#Agregar mas jefes
+#Crear rango de ataques críticos variados
