@@ -10,3 +10,6 @@ Interaccion.aparicion()
 
 #Agregar mas jefes
 #Crear rango de ataques críticos variados
+bfdcffdg = 4
+gffdgdhgf = 1
+yrttryth = 0
