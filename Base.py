@@ -7,3 +7,5 @@ print("Es un honor tenerte de nuestro lado", Nombre)
 #Aparición primer enemigo
 import Interaccion
 Interaccion.aparicion()
+
+xd
