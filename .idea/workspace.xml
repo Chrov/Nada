@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b198895-ffa4-4fdc-b108-fff2e714e06c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/FinalTime.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/time.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../akis" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../../MiniJuego/.idea/dictionaries/camil.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../MiniJuego/.idea/git.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../MiniJuego/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../MiniJuego/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../MiniJuego/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../MiniJuego/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../MiniJuego/Base.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../MiniJuego/FinalTime.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../MiniJuego/Interaccion.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../MiniJuego/time.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../2.py" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,8 +38,8 @@
       <file leaf-file-name="Base.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="272">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -48,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/FinalTime.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+              <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -413,7 +424,7 @@
     <entry file="file://$PROJECT_DIR$/FinalTime.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -438,8 +449,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
